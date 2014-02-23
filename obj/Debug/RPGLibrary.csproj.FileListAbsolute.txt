@@ -1,0 +1,5 @@
+\\VBOXSVR\share\visualworkspace\RPGLibrary\RPGLibrary\bin\Debug\RPGLibrary.dll
+\\VBOXSVR\share\visualworkspace\RPGLibrary\RPGLibrary\bin\Debug\RPGLibrary.pdb
+\\VBOXSVR\share\visualworkspace\RPGLibrary\RPGLibrary\obj\Debug\RPGLibrary.dll
+\\VBOXSVR\share\visualworkspace\RPGLibrary\RPGLibrary\obj\Debug\RPGLibrary.pdb
+\\VBOXSVR\share\visualworkspace\RPGLibrary\RPGLibrary\obj\Debug\RPGLibrary.csprojResolveAssemblyReference.cache
