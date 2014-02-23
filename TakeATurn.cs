@@ -232,7 +232,7 @@ namespace RPGlibrary {
             //local variable that stores health pre-attack
             int currentHealth;
 
-            //currently only works for warrior and scorpion turns
+            //selects te proper attacker
             switch (attacker) {
                 case "Warrior":
                     //set pre-attack health
